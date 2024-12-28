@@ -58,7 +58,7 @@ const MobileMenu = ({ logo }) => {
               </a>
             </li>
             <li className="download_cv">
-              <a href="img/cv/1.jpg" download="">
+              <a href="img/cv/SalheSeid 2024 @2024 .pdf (1).pdf" download="">
                 <span>Download CV</span>
               </a>
             </li>
